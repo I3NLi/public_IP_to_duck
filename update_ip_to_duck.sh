@@ -1,6 +1,6 @@
 #!/bin/bash
-SUBDOMAIN="aloe-solution"
-TOKEN="410e07d5-a9ca-49e6-8aac-8c055cb66f70"
+SUBDOMAIN="<subdomain>"
+TOKEN="<token>"
 
 # Retrieve public IP address
 PUBLIC_IP=$(curl -s https://ipinfo.io/ip)
